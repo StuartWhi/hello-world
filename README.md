@@ -1,2 +1,2 @@
 # hello-world
-Just a quick into to learn the site
+Just a quick intro to learn the site
